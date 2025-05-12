@@ -12,38 +12,38 @@ https://discord.gg/zEcCqBpM9C
 
 # 4 - INSTALL THESE THINGS :
 
-haxelib install lime
+- haxelib install lime
 
-haxelib install openfl
+- haxelib install openfl
 
-haxelib install flixel
+- haxelib install flixel
 
-haxelib run lime setup flixel
+- haxelib run lime setup flixel
 
-haxelib run lime setup
+- haxelib run lime setup
 
-haxelib install flixel-tools
+- haxelib install flixel-tools
 
-haxelib run flixel-tools setup
+- haxelib run flixel-tools setup
 
 # 5 - INSERT THESE COMMANDS INTO THE CMD :
 
-haxelib install flixel-addons
+- haxelib install flixel-addons
 
-haxelib install flixel-ui
+- haxelib install flixel-ui
 
-haxelib install hscript
+- haxelib install hscript
 
-haxelib install newgrounds
+- haxelib install newgrounds
 
 
 # 6 - RUN THESE COMMANDS :
 
-haxelib git polymod https://github.com/larsiusprime/polymod.git
+- haxelib git polymod https://github.com/larsiusprime/polymod.git
 
-haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
+- haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
 
-haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
+- haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
 
 
 # 7 - YOU MUST HAVE VISUAL STUDIO(FOR EXTENSION FUNKIN FOR LUA AND HAXE EXTENSION) IT'S RECOMMANDED !
