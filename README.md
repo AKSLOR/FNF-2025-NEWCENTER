@@ -49,6 +49,8 @@ haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
 # 7 - YOU MUST HAVE VISUAL STUDIO(FOR EXTENSION FUNKIN FOR LUA AND HAXE EXTENSION) IT'S RECOMMANDED !
 
 - https://code.visualstudio.com/
+- https://marketplace.visualstudio.com/items?itemName=Snirozu.funkin-script-autocompleter
+- https://marketplace.visualstudio.com/items?itemName=nadako.vshaxe
 
 # 8 - RUN THESE COMMANDS :
 
